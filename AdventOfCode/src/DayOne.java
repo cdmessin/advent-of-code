@@ -8,7 +8,8 @@ public class DayOne {
 	public static int[] data;
 	
 	public static void main(String[] args) {
-//		System.out.println(dayOneOne());
+//		int resultOne = dayOneOne();
+//		System.out.println(resultOne);
 		dayOneTwo();
 
 	}
